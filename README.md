@@ -1,7 +1,7 @@
-# SCP-2.5D
-注：请不要与SCP：Dcrd混淆
+# SCP-2.5D-SE
+注：请不要与SCP - 2.5D混淆
 
-SCP - 2.5D或SCP：Dcr
+SCP - 2.5D-SE或SCP：Dcr
 
 TASA-Ed团队开发，官网：https://www.tasaed.top/
 
@@ -16,4 +16,4 @@ https://creativecommons.org/licenses/by-sa/3.0/
 
 如需二次修改，请署名原作者(TASA-Ed)
 
-要求：鹰歌MakerFrame引擎(https://github.com/leamus/MakerFrame/ )
+要求：剧本编辑器2.8.1以上版本

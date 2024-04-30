@@ -1,16 +1,14 @@
 # SCP-2.5D-SE
-注：请不要与SCP - 2.5D混淆
+Note: Please not be confused with SCP-2.5D
 
-SCP - 2.5D-SE或SCP：Dcr
+SCP - 2.5D-SE or SCP：Dcr
 
-TASA-Ed团队开发，官网：https://www.tasaed.top/
+Developed by TASA-Ed Studios，Official website：https://www.tasaed.top/
 
-游戏基于SCP基金会背景(http://scp-wiki-cn.wikidot.com/ )
+The game is based on the works of the SCP Foundation community(http://scp-wiki-cn.wikidot.com/ )
 
-游戏遵循知识共享许可协议BY-SA 3.0（即必须署名、可商用、可二创、可二创商用）
-https://creativecommons.org/licenses/by-sa/3.0/
-
-开源许可：Apache License 2.0
+This game and the source code are licensed under Creative Commons Attribution-ShareAlike 4.0 License.
+https://creativecommons.org/licenses/by-sa/4.0/
 
 本游戏为SCP - Containment Breach的2.5D翻版(https://github.com/Regalis11/scpcb/ )
 

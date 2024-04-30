@@ -1,5 +1,6 @@
 # SCP-2.5D-SE
-**其他语言版本: [English](README.md), [中文](README_zh_CN.md).**
+**[English](README.md), [中文](README_zh_CN.md).**
+
 Note: Please not be confused with SCP-2.5D
 
 SCP - 2.5D-SE or SCP：Dcr

@@ -1,4 +1,6 @@
 # SCP-2.5D-SE
+**[English](README.md), [中文](README_zh_CN.md).**
+
 注：请不要与SCP - 2.5D混淆
 
 SCP - 2.5D-SE或SCP：Dcr

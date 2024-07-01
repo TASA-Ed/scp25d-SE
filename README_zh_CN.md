@@ -14,7 +14,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 本游戏为SCP - Containment Breach的2.5D版(https://github.com/Regalis11/scpcb/ )
 
-如果您需要制作衍生品，请遵守许可证
+如果您需要制作衍生品，请遵守许可协议
 
 要求：剧本编辑器2.8.1及以上版本(https://keefor.github.io/scriptedit/)
 

@@ -9,7 +9,7 @@ Developed by TASA-Ed Studios，Official website：https://www.tasaed.top/
 
 The game is based on the works of the SCP Foundation community(http://scp-wiki-cn.wikidot.com/ )
 
-This game and the source code are licensed under Creative Commons Attribution-ShareAlike 4.0 License.
+This game's source code files, image files, audio files and all other files related to the game are licensed under the Creative Commons Attribution-ShareAlike 4.0 License.
 https://creativecommons.org/licenses/by-sa/4.0/
 
 This game is a 2.5D remake of SCP - Containment Breach(https://github.com/Regalis11/scpcb/ )
@@ -17,3 +17,7 @@ This game is a 2.5D remake of SCP - Containment Breach(https://github.com/Regali
 If you need to make derivatives, please comply with the license
 
 Requirements: 剧本编辑器(ScriptEditor) 2.8.1 or later(https://keefor.github.io/scriptedit/)
+
+Fuck CSDN
+Fuck Gitcode
+Fuck Tencent

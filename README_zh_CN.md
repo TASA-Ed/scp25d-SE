@@ -1,5 +1,20 @@
-# SCP-2.5D-SE
-**[English](README.md), [中文](README_zh_CN.md).**
+<p align="center">
+    <a href="https://www.tasaed.top" target="_blank" rel="noopener noreferrer">
+        <img width="100" src="https://s2.loli.net/2024/07/22/zptoSGinU3s1Q45.png" alt="SCP 2.5D" />
+    </a>
+</p>
+
+<p align="center"><b>SCP 2.5D</b></p>
+
+<p align="center">
+<a href="https://github.com/halo-dev/halo/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/TASA-Ed/scp25d-SE.svg?style=flat-square&include_prereleases" /></a>
+</p>
+
+<p align="center">
+<a href="README.md">English</a>，<a href="README_zh_CN.md">中文</a>
+</p>
+
+---
 
 注：请不要与SCP - 2.5D混淆
 

@@ -22,10 +22,15 @@
 
 注：请不要与SCP - 2.5D混淆
 
+## 介绍
 SCP - 2.5D-SE或SCP：Dcr
 
 由TASA-Ed工作室开发，[官网](https://www.tasaed.top/)
+## 下载
+如需APK请到[Releases（发行版）](https://github.com/TASA-Ed/scp25d-SE/releases)中下载，游戏正在开发中，可能无法正常游玩，请谅解。
 
+如需源码请到[Releases（发行版）](https://github.com/TASA-Ed/scp25d-SE/releases)中下载，游戏正在开发中，可能无法正常游玩，请谅解。
+## 其他
 游戏基于[SCP基金会社区](http://scp-wiki-cn.wikidot.com/ )背景
 
 本游戏的源代码文件、图像文件、音频文件以及所有与游戏相关的文件均已授权给 [知识共享 署名-相同方式共享 许可协议 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

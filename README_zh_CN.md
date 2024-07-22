@@ -29,7 +29,7 @@ SCP - 2.5D-SE或SCP：Dcr
 ## 下载
 如需APK请到[Releases（发行版）](https://github.com/TASA-Ed/scp25d-SE/releases)中下载，游戏正在开发中，可能无法正常游玩，请谅解。
 
-如需源码请到[Releases（发行版）](https://github.com/TASA-Ed/scp25d-SE/releases)中下载，游戏正在开发中，可能无法正常游玩，请谅解。
+如需源码，您可下载[Zip压缩包](https://github.com/TASA-Ed/scp25d-SE/archive/refs/heads/main.zip)或在[Releases（发行版）](https://github.com/TASA-Ed/scp25d-SE/releases)中下载，也可以直接`git clone https://github.com/TASA-Ed/scp25d-SE.git`
 ## 其他
 游戏基于[SCP基金会社区](http://scp-wiki-cn.wikidot.com/ )背景
 

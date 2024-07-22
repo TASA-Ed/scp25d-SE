@@ -7,7 +7,11 @@
 <p align="center"><b>SCP 2.5D</b></p>
 
 <p align="center">
-<a href="https://github.com/halo-dev/halo/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/TASA-Ed/scp25d-SE.svg?style=flat-square&include_prereleases" /></a>
+<a href="https://github.com/TASA-Ed/scp25d-SE/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/TASA-Ed/scp25d-SE.svg?style=flat-square&include_prereleases"/></a>
+<a href="https://github.com/TASA-Ed/scp25d-SE/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/TASA-Ed/scp25d-SE?color=8ef6e4&style=flat-square"/></a>
+<a href="https://scp-wiki.wikidot.com/"><img alt="SCP Foundation community" src="https://img.shields.io/badge/SCP%20Foundation-gray?style=flat-square&logo=scpfoundation"/></a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="LICENSE" src="https://img.shields.io/badge/CC--BY--SA%204.0-blue?style=flat-square&color=dddddd&labelColor=dddddd&logo=creativecommons&logoColor=000000"/></a>
+<a href="https://www.patreon.com/tasaed"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-yellow?style=flat-square&logo=patreon"/></a>
 </p>
 
 <p align="center">

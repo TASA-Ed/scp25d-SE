@@ -10,7 +10,8 @@
 <a href="https://github.com/TASA-Ed/scp25d-SE/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/TASA-Ed/scp25d-SE.svg?style=flat-square&include_prereleases"/></a>
 <a href="https://github.com/TASA-Ed/scp25d-SE/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/TASA-Ed/scp25d-SE?color=8ef6e4&style=flat-square"/></a>
 <a href="https://scp-wiki.wikidot.com/"><img alt="SCP Foundation community" src="https://img.shields.io/badge/SCP%20Foundation-gray?style=flat-square&logo=scpfoundation"/></a>
-<a href="https://github.com/TASA-Ed/scp25d-SE/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/github/license/TASA-Ed/scp25d-SE?color=cecece&style=flat-square"/></a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="LICENSE" src="https://img.shields.io/badge/CC--BY--SA%204.0-blue?style=flat-square&color=dddddd&labelColor=dddddd&logo=creativecommons&logoColor=00000"/></a>
+<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img alt="LICENSE" src="https://img.shields.io/badge/GNU%20GPL%203.0-blue?style=flat-square&color=9b9b9b&labelColor=9b9b9b&logo=gnu&logoColor=A42E2B"/></a>
 <a href="https://www.patreon.com/tasaed"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-yellow?style=flat-square&logo=patreon"/></a>
 </p>
 
@@ -33,9 +34,9 @@ SCP - 2.5D-SE或SCP：Dcr
 ## 其他
 游戏基于[SCP基金会社区](http://scp-wiki-cn.wikidot.com/ )背景
 
-本游戏的图像文件、音频文件以及所有与游戏相关的文件均已授权给 [知识共享 署名-相同方式共享 许可协议 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。
+除与本游戏相关的源代码文件外，所有其他文件均采用[知识共享 署名-相同方式共享 许可协议 4.0](https://creativecommons.org/licenses/by-sa/4.0/)进行许可。
 
-本游戏的源代码文件已授权给[GNU通用公共许可证 3.0](https://www.gnu.org/licenses/gpl-3.0.html)。
+本游戏的源代码文件采用 [GNU通用公共许可证 3.0](https://www.gnu.org/licenses/gpl-3.0.html) 许可。
 
 **2024-08-05更改：**
 

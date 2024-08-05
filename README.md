@@ -10,7 +10,8 @@
 <a href="https://github.com/TASA-Ed/scp25d-SE/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/TASA-Ed/scp25d-SE.svg?style=flat-square&include_prereleases"/></a>
 <a href="https://github.com/TASA-Ed/scp25d-SE/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/TASA-Ed/scp25d-SE?color=8ef6e4&style=flat-square"/></a>
 <a href="https://scp-wiki.wikidot.com/"><img alt="SCP Foundation community" src="https://img.shields.io/badge/SCP%20Foundation-gray?style=flat-square&logo=scpfoundation"/></a>
-<a href="https://github.com/TASA-Ed/scp25d-SE/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/github/license/TASA-Ed/scp25d-SE?color=cecece&style=flat-square"/></a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="LICENSE" src="https://img.shields.io/badge/CC--BY--SA%204.0-blue?style=flat-square&color=dddddd&labelColor=dddddd&logo=creativecommons&logoColor=00000"/></a>
+<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img alt="LICENSE" src="https://img.shields.io/badge/GNU%20GPL%203.0-blue?style=flat-square&color=9b9b9b&labelColor=9b9b9b&logo=gnu&logoColor=A42E2B"/></a>
 <a href="https://www.patreon.com/tasaed"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-yellow?style=flat-square&logo=patreon"/></a>
 </p>
 
@@ -33,9 +34,9 @@ For the source code, you can download it as a [zip archive](https://github.com/T
 ## Other
 The game is based on the works of the [SCP Foundation community](http://scp-wiki-cn.wikidot.com/ )
 
-This game's image files, audio files and all other files related to the game are licensed under the [Creative Commons Attribution-ShareAlike 4.0 License.](https://creativecommons.org/licenses/by-sa/4.0/)
+All files other than the source code files related to this game are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)
 
-The source files of this game are licensed under the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+The source code files for this game are licensed under the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.html).
 
 **2024-08-05 Change:**
 

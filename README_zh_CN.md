@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<p align="center"><b>SCP 2.5D</b></p>
+<p align="center"><b>SCP 2.5D - SE</b></p>
 
 <p align="center">
 <a href="https://github.com/TASA-Ed/scp25d-SE/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/TASA-Ed/scp25d-SE.svg?style=flat-square&include_prereleases"/></a>
@@ -33,7 +33,13 @@ SCP - 2.5D-SE或SCP：Dcr
 ## 其他
 游戏基于[SCP基金会社区](http://scp-wiki-cn.wikidot.com/ )背景
 
-本游戏的源代码文件、图像文件、音频文件以及所有与游戏相关的文件均已授权给 [知识共享 署名-相同方式共享 许可协议 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+本游戏的图像文件、音频文件以及所有与游戏相关的文件均已授权给 [知识共享 署名-相同方式共享 许可协议 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。
+
+本游戏的源代码文件已授权给[GNU通用公共许可证 3.0](https://www.gnu.org/licenses/gpl-3.0.html)。
+
+**2024-08-05更改：**
+
+我们游戏的源代码文件在之前一直使用的是[知识共享 署名-相同方式共享 许可协议 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，但此许可协议并不适用于开源软件，于是我们决定更改许可证为[GNU通用公共许可证 3.0](https://www.gnu.org/licenses/gpl-3.0.html)，此更改于2024-08-05生效，2024-08-05以后所有对源代码文件的操作都需要遵守[GNU通用公共许可证 3.0](https://www.gnu.org/licenses/gpl-3.0.html)（包括旧版本的源代码文件），在此之前对源代码文件的操作（例如您的制作的衍生品，在您的项目中使用我们的源代码等）不受影响，我们不会也无法使其受到影响，如果您需要将以前的源代码文件更新到最新版本，那您需要遵守[GNU通用公共许可证 3.0](https://www.gnu.org/licenses/gpl-3.0.html)，如果您不想遵守，也可以不使用我们的源代码或者我们将您挂到耻辱柱上让其他人都来观摩您的杰作。
 
 本游戏为[SCP - Containment Breach](https://github.com/Regalis11/scpcb/)的2.5D版
 
@@ -44,3 +50,5 @@ SCP - 2.5D-SE或SCP：Dcr
 操你妈的CSDN
 操你妈的GitCode
 操你妈的腾讯
+
+操你妈的涛哥爱game

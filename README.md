@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<p align="center"><b>SCP 2.5D</b></p>
+<p align="center"><b>SCP 2.5D - SE</b></p>
 
 <p align="center">
 <a href="https://github.com/TASA-Ed/scp25d-SE/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/TASA-Ed/scp25d-SE.svg?style=flat-square&include_prereleases"/></a>

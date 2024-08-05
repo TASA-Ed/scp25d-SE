@@ -33,7 +33,7 @@ For the source code, you can download it as a [zip archive](https://github.com/T
 ## Other
 The game is based on the works of the [SCP Foundation community](http://scp-wiki-cn.wikidot.com/ )
 
-This game's source code files, image files, audio files and all other files related to the game are licensed under the [Creative Commons Attribution-ShareAlike 4.0 License.](https://creativecommons.org/licenses/by-sa/4.0/)
+This game's image files, audio files and all other files related to the game are licensed under the [Creative Commons Attribution-ShareAlike 4.0 License.](https://creativecommons.org/licenses/by-sa/4.0/)
 
 The source files of this game are licensed under the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.html).
 
